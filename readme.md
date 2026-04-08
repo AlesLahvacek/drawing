@@ -2,4 +2,5 @@
 Drawing
 
 ## ID
-I2500096
+I2500096  
+Hodnocení: V pořádku  
